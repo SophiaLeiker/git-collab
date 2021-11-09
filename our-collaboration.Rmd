@@ -19,8 +19,16 @@ hist(cars$speed)
 
 ```
 
+*What a great histogram*
+
 
 ```{r task 2}
+sophia <- 5
+kort <- 5
+
+basketball <- "very cool"
+camping <- "very fun"
+
 
 ```
 
