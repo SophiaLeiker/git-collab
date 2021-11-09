@@ -14,7 +14,7 @@ Hi Kort!!! Sophia here saying hello!
 Hey Sophia!! Looking forward to the game this weekend!
 
 ```{r task 1}
-plot(cars)
+plot(cars$speed)
 hist(cars$speed)
 
 ```
