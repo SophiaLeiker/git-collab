@@ -15,6 +15,7 @@ Hey Sophia!! Looking forward to the game this weekend!
 
 ```{r task 1}
 plot(cars)
+hist(cars$speed)
 
 ```
 
