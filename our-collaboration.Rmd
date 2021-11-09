@@ -14,7 +14,7 @@ Hi Kort!!! Sophia here saying hello!
 Hey Sophia!! Looking forward to the game this weekend!
 
 ```{r task 1}
-plot(cars)
+mean_value <- mean(cars$dist)
 hist(cars$speed)
 
 ```
